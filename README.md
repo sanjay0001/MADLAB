@@ -1,2 +1,2 @@
 # MADLAB
-Mobile Computing Assignments 
+Mobile Computing Lab Assignments 
